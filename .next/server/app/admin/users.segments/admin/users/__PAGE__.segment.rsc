@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[17620,["/_next/static/chunks/ce9cb3afc54be8d4.js","/_next/static/chunks/ef61a45a836fc906.js","/_next/static/chunks/de395c640c4ec13e.js","/_next/static/chunks/69c8ad5fb07f9925.js"],"DashboardHeader"]
+3:I[67889,["/_next/static/chunks/ce9cb3afc54be8d4.js","/_next/static/chunks/ef61a45a836fc906.js","/_next/static/chunks/de395c640c4ec13e.js","/_next/static/chunks/69c8ad5fb07f9925.js"],"AdminSidebar"]
+4:I[58723,["/_next/static/chunks/ce9cb3afc54be8d4.js","/_next/static/chunks/ef61a45a836fc906.js","/_next/static/chunks/de395c640c4ec13e.js","/_next/static/chunks/69c8ad5fb07f9925.js"],"UsersTable"]
+5:I[92101,["/_next/static/chunks/2a8b179dade40cd7.js","/_next/static/chunks/386a27c5aa82efce.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+0:{"buildId":"f7UHBQ0M--n9I-3Wu9_31","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen gradient-purple","children":[["$","$L2",null,{}],["$","div",null,{"className":"flex","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1 p-6 lg:p-8","children":["$","div",null,{"className":"max-w-7xl mx-auto space-y-8","children":[["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-foreground mb-2","children":"Управление пользователями"}],["$","p",null,{"className":"text-muted-foreground","children":"Просмотр и управление всеми пользователями"}]]}],["$","$L4",null,{}]]}]}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/de395c640c4ec13e.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/69c8ad5fb07f9925.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+7:null

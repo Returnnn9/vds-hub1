@@ -1,0 +1,80 @@
+{
+  "node": {
+    "602a7ae21bbcace017280431ed2a8210ab6601cce0": {
+      "workers": {
+        "app/admin/servers/page": {
+          "moduleId": 66095,
+          "async": false,
+          "exportedName": "signIn",
+          "filename": "Downloads/vds-hub/vds-hub/lib/actions/auth.ts"
+        }
+      },
+      "layer": {
+        "app/admin/servers/page": "rsc"
+      },
+      "exportedName": "signIn",
+      "filename": "Downloads/vds-hub/vds-hub/lib/actions/auth.ts"
+    },
+    "0066788a84acb84b4bc9006e3263c3f84d4f14a49d": {
+      "workers": {
+        "app/admin/servers/page": {
+          "moduleId": 66095,
+          "async": false,
+          "exportedName": "signOut",
+          "filename": "Downloads/vds-hub/vds-hub/lib/actions/auth.ts"
+        }
+      },
+      "layer": {
+        "app/admin/servers/page": "rsc"
+      },
+      "exportedName": "signOut",
+      "filename": "Downloads/vds-hub/vds-hub/lib/actions/auth.ts"
+    },
+    "700d0cf82d8344131a7f3e1917a6f18faf8296963d": {
+      "workers": {
+        "app/admin/servers/page": {
+          "moduleId": 66095,
+          "async": false,
+          "exportedName": "signUp",
+          "filename": "Downloads/vds-hub/vds-hub/lib/actions/auth.ts"
+        }
+      },
+      "layer": {
+        "app/admin/servers/page": "rsc"
+      },
+      "exportedName": "signUp",
+      "filename": "Downloads/vds-hub/vds-hub/lib/actions/auth.ts"
+    },
+    "00390cad104451dce696ffc8f5bfc062ba2c94e2d6": {
+      "workers": {
+        "app/admin/servers/page": {
+          "moduleId": 66095,
+          "async": false,
+          "exportedName": "getUser",
+          "filename": "Downloads/vds-hub/vds-hub/lib/actions/auth.ts"
+        }
+      },
+      "layer": {
+        "app/admin/servers/page": "rsc"
+      },
+      "exportedName": "getUser",
+      "filename": "Downloads/vds-hub/vds-hub/lib/actions/auth.ts"
+    },
+    "006220db40edb1107ba203bd9371278ff758718c5f": {
+      "workers": {
+        "app/admin/servers/page": {
+          "moduleId": 66095,
+          "async": false,
+          "exportedName": "getUserProfile",
+          "filename": "Downloads/vds-hub/vds-hub/lib/actions/auth.ts"
+        }
+      },
+      "layer": {
+        "app/admin/servers/page": "rsc"
+      },
+      "exportedName": "getUserProfile",
+      "filename": "Downloads/vds-hub/vds-hub/lib/actions/auth.ts"
+    }
+  },
+  "edge": {}
+}

@@ -1,0 +1,50 @@
+{
+  "node": {
+    "602a7ae21bbcace017280431ed2a8210ab6601cce0": {
+      "workers": {
+        "app/register/page": {
+          "moduleId": 21686,
+          "async": false,
+          "exportedName": "signIn",
+          "filename": "Downloads/vds-hub/vds-hub/lib/actions/auth.ts"
+        }
+      },
+      "layer": {
+        "app/register/page": "action-browser"
+      },
+      "exportedName": "signIn",
+      "filename": "Downloads/vds-hub/vds-hub/lib/actions/auth.ts"
+    },
+    "0066788a84acb84b4bc9006e3263c3f84d4f14a49d": {
+      "workers": {
+        "app/register/page": {
+          "moduleId": 21686,
+          "async": false,
+          "exportedName": "signOut",
+          "filename": "Downloads/vds-hub/vds-hub/lib/actions/auth.ts"
+        }
+      },
+      "layer": {
+        "app/register/page": "action-browser"
+      },
+      "exportedName": "signOut",
+      "filename": "Downloads/vds-hub/vds-hub/lib/actions/auth.ts"
+    },
+    "700d0cf82d8344131a7f3e1917a6f18faf8296963d": {
+      "workers": {
+        "app/register/page": {
+          "moduleId": 21686,
+          "async": false,
+          "exportedName": "signUp",
+          "filename": "Downloads/vds-hub/vds-hub/lib/actions/auth.ts"
+        }
+      },
+      "layer": {
+        "app/register/page": "action-browser"
+      },
+      "exportedName": "signUp",
+      "filename": "Downloads/vds-hub/vds-hub/lib/actions/auth.ts"
+    }
+  },
+  "edge": {}
+}
